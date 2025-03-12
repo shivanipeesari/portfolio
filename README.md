@@ -1,2 +1,9 @@
-# portfolio
-A simple and responsive Personal Portfolio Website built using HTML, Tailwind CSS, and JavaScript. Showcases my skills, experiences, projects, and contact details in a clean and structured layout. 🚀✨
+🚀 Portfolio  
+
+This is a simple personal portfolio website built with **HTML and Tailwind CSS**. It showcases my skills, projects, and contact details in a clean and responsive layout.  
+
+✨ Features  
+- 📱 Fully responsive design  
+- 🎨 Modern and minimal UI  
+- ⚡ Fast and lightweight  
+- 📂 Showcases my work and skills  
